@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gmenaa&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel's GitHub stats](https://github-readme-stats-six-tawny.vercel.app/api?username=Gmenaa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills
 
