@@ -1,6 +1,6 @@
-![Header](./github-header-image.png)
-
-![Gabriel's GitHub stats](https://github-readme-stats-two-gamma-42.vercel.app/api?username=Gmenaa&show_icons=true&theme=tokyonight)
+<!-- ![Header](./github-header-image.png) -->
+ 
+![Gabriel's GitHub stats](https://github-readme-stats-two-gamma-42.vercel.app/api?username=Gmenaa&show_icons=true&theme=tokyonight&card_width=750px)
 
 ### Skills
 
