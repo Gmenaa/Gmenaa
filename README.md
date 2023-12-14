@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-[![Gabriel's GitHub stats](https://github-readme-stats-8068n699z-gabriel-menas-projects.vercel.app/api?username=Gmenaa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Gabriel's GitHub stats](https://github-readme-stats-two-gamma-42.vercel.app/api?username=Gmenaa&show_icons=true&theme=tokyonight)
 
 ### Skills
 
