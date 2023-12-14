@@ -1,16 +1,18 @@
 <!-- ![Header](./github-header-image.png) -->
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriel Mena
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Gabriel;+An+Open+Source+Contributor;🖥️ ➡️ 🐛 ➡️ 😩 ➡️ 🕵️‍♂️ ➡️ 🧐 ➡️ 😡 ➡️ 🤯 ➡️ 😅 ➡️ 🥳 ➡️ 🔄;Loves+To+Build+Impactful+Projects+🛠;An+Avid+Reader+📖;+And+A+Distributed+Systems+Enthusiast">
+</p>
 ====================================================================================================================================
 
 Web Developer and Designer
 --------------------------
 
 * 🌍  I'm based in Houston, Texas.
-* ✉️  You can contact me at [menagabriel023@gmail.com](mailto:menagabriel023@gmail.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on abc
-* ⚡  xyz
+* ✉️   You can contact me at [menagabriel023@gmail.com](mailto:menagabriel023@gmail.com)
+* 🧠  I'm currently learning React.
+* 🤝  I'm open to collaborating on abc.
+* ⚡   Chinchilla, oh can they get wet?
 
 <a href="https://www.github.com/Gmenaa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Gmenaa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/BakonDonutty" target="_blank" rel="noreferrer"><img
@@ -18,7 +20,7 @@ src="https://img.shields.io/twitch/status/BakonDonutty?logo=twitchsx&style=for-t
 
 ### Skills
 
-<p align="left">
+<p align="left" >
   <h3>💻 Core</h3>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
