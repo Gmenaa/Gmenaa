@@ -3,7 +3,7 @@
 <img src="./algo_gif3.gif" width="100%" height=200px>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=fff&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Gabriel;+An+Open+Source+Contributor;+🖥️➡️🐛➡️🕵️‍♂️➡️🧐➡️😡➡️🤯➡️😅➡️🔄;Build+Impactful+Projects+🛠;An+Avid+Reader+📖;+And+A+Software+Enthusiast">
+  <img src="https://readme-typing-svg.herokuapp.com?color=fff&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Gabriel">
 </p>
 
 About Me :)
